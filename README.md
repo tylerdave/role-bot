@@ -2,7 +2,10 @@
 
 Role Bot is an Amazon Alexa skill that provides some basic functionality that could be useful to RPG players. This is mainly a project for fun.
 
-In the Alexa app, it is titled "Role Bot: The RPG Assistant" so search for something like that if you'd like to find it.
+## Enable Skill
+
+- **On the Amazon website:** https://www.amazon.com/Role-Bot-The-RPG-Assistant/dp/B01N3751H8
+- **In the Alexa app:** Search for "Role Bot: The RPG Assistant"
 
 ## Code
 
