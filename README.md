@@ -13,4 +13,4 @@ I plan to release the code for this skill once I clean it up a bit. It will be p
 
 ## Issues & Feedback
 
-For now, please use the issue tracker of this repo to report issues or provide feedback. Thanks!
+For now, please use the [issue tracker](https://github.com/tylerdave/role-bot/issues) of this repo to report issues or provide feedback. Thanks!
